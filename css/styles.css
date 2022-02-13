@@ -6,17 +6,27 @@
   text-decoration: none;
 }
 
-.logo {
+.logo-header {
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
-  border: 1px solid #ececec;
 
   /* identical to box height */
 
   letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.logo-accent {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1, 19;
+  letter-spacing: 0.03em;
+
   color: #2196f3;
 }
 
@@ -185,4 +195,14 @@
   letter-spacing: 0.03em;
 
   color: #ffffff;
+}
+
+.logo-footer {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #fff;
 }
